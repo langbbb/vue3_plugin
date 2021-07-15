@@ -1,0 +1,15 @@
+{
+  "name": "lang-showmore",
+  "version": "1.0.0",
+  "description": "显示和收起内容组件",
+  "main": "showmore.umd.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "components"
+  ],
+  "author": "langbb",
+  "license": "ISC"
+}
