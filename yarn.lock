@@ -4867,6 +4867,11 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://registry.nlark.com/kind-of/download/kind-of-6.0.3.tgz#07c05034a6c349fa06e24fa35aa76db4580ce4dd"
   integrity sha1-B8BQNKbDSfoG4k+jWqdttFgM5N0=
 
+lang-showmore@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.nlark.com/lang-showmore/download/lang-showmore-1.0.1.tgz#41de70613a8334ce1cb3bd79ae913d27183c0d74"
+  integrity sha1-Qd5wYTqDNM4cs715rpE9Jxg8DXQ=
+
 launch-editor-middleware@^2.2.1:
   version "2.2.1"
   resolved "https://registry.npm.taobao.org/launch-editor-middleware/download/launch-editor-middleware-2.2.1.tgz#e14b07e6c7154b0a4b86a0fd345784e45804c157"
