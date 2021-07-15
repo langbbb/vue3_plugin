@@ -11,6 +11,17 @@ const routes = [
     component: () => import('@/views/Home.vue'),
     meta: { title: '登录', isLoginPage: true }
   },
+
+  {
+    path: '/npmShowmore',
+    component: () => import('@/views/npmPlugin/NpmShowmore.vue'),
+    meta: { title: 'npmShowmore', isLoginPage: true }
+  },
+  {
+    path: '/myShowmore',
+    component: () => import('@/views/myPlugin/MyShowmore.vue'),
+    meta: { title: 'myShowmore', isLoginPage: true }
+  },
 ]
 
 const router = createRouter({

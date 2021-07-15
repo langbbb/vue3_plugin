@@ -22,12 +22,12 @@ export default {
   props: {
     minHerght: {
       type: [String, Number],
-      default: "300",
+      default: "200",
     },
 
     maxHeight: {
       type: [String, Number],
-      default: "900",
+      default: "400",
     },
 
     showBtnColor: {
