@@ -1,6 +1,6 @@
 {
   "name": "lang-showmore",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "显示和收起内容组件",
   "main": "showmore.umd.min.js",
   "scripts": {
